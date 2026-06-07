@@ -7,3 +7,11 @@ Project Purpose
 ​Search for specific students using their unique ID.
 ​Calculate and display the average academic performance of all students in the system.
 ​This project is developed using Object-Oriented Programming (OOP) principles to ensure data encapsulation and maintainable code structure.
+
+How to Run
+​To run this application, ensure you have the Java Development Kit (JDK) installed on your system.
+Follow these steps:
+  1) Download the Repository as ZIP file.
+  2) Navigate to the directory in cmd
+  3) Compile the GradeSystem.java using the command "javac GradeSystem.java".
+  4) Run the Application using the command "java GradeSystem".
