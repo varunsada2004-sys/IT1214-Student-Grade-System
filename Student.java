@@ -9,12 +9,10 @@ public class Student {
         this.marks = marks;
     }
 
-    // Getters
     public String getId() { return id; }
     public String getName() { return name; }
     public double getMarks() { return marks; }
-
-    @Override
+    
     public String toString() {
         return "ID: " + id + " | Name: " + name + " | Marks: " + marks;
     }
