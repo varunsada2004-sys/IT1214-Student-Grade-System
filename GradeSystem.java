@@ -16,7 +16,7 @@ public class GradeSystem {
             System.out.print("Enter choice: ");
             
             int choice = sc.nextInt();
-            sc.nextLine(); // Consume newline
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1: addStudent(); break;
